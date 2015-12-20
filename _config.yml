@@ -1,7 +1,7 @@
 name: Bees of Mind
 favicon: null
-layout_spectrum: 0.19240935984998941
-typography_spectrum: 0.9305180483497679
+layout_spectrum: 0.22132
+typography_spectrum: 0.63837
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.28981442376971245
+    - '#f9f9f1'
+    - '#090400'
+    - '#95a6ad'
+    - '#7a5c19'
+    - '#d4a940'
+  brandStrength: 0.3125
   lightness: 0.9608831943478435
-  saturation: 0.17644351138733327
+  saturation: 0.1875
   rhythmicContrast: 0.3081267138477415
 purpose: []
